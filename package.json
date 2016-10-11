@@ -1,0 +1,28 @@
+{
+  "name": "bigtime-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-goldsmith/bigtime-auto.git"
+  },
+  "author": "John Goldsmith <johngoldsm1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-goldsmith/bigtime-auto/issues"
+  },
+  "homepage": "https://github.com/john-goldsmith/bigtime-auto#readme",
+  "devDependencies": {
+    "async": "^2.0.1",
+    "bigtime-sdk": "^0.3.0",
+    "change-case": "^3.0.0",
+    "dotenv": "^2.0.0",
+    "fs-extra": "^0.30.0",
+    "moment": "^2.14.1",
+    "winston": "^2.2.0"
+  }
+}
